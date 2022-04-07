@@ -7,3 +7,7 @@ Persistência de dados em localStorage.
 
 # Utilização
 Basta abrir o index.html para iniciar o app.
+
+ou
+
+[CLIQUE AQUI](https://joaopjrn.github.io/appTreino/index.html)
